@@ -58,7 +58,7 @@ export default function RootLayout({
 
           {/* Footer */}
           <footer className="p-4 border-t bg-muted text-center">
-            <p className="text-sm text-muted-foreground">© 2023 Chatbot Inc. All rights reserved.</p>
+            <p className="text-sm text-muted-foreground">© 2025 SIHA All rights reserved.</p>
           </footer>
         </div>
       </body>
